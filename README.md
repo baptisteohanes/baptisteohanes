@@ -2,7 +2,7 @@
 
 My name is Baptiste OHANES, and I'm a geek at Microsoft based in France
 
-I'm a Cloud Solution Architect with over 12 years of experience, focused on working with challenging projects on Microsoft Azure cloud platform and learning while working.
+I'm a Cloud Solution Architect with over 15 years of experience, focused on working with challenging projects on Microsoft Azure cloud platform and learning while working.
 
 - 🙋‍♂️ Pronouns: He/him
 
